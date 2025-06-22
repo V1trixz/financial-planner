@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+# Node.js
+node_modules/
+build/
+dist/
+# IDEs
+.vscode/
+.idea/
+# Logs
+*.log
+# Environment variables
+.env
+.env.local
+# Database
+*.db
+# Zip files
+*.zip
