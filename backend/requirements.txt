@@ -1,3 +1,4 @@
+# Exemplo de como deve ficar seu requirements.txt
 blinker==1.9.0
 certifi==2025.6.15
 charset-normalizer==3.4.2
@@ -15,3 +16,4 @@ SQLAlchemy==2.0.41
 typing_extensions==4.14.0
 urllib3==2.5.0
 Werkzeug==3.1.3
+gunicorn  # <--- Adicione esta linha
