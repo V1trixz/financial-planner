@@ -802,6 +802,6 @@ Com este tutorial completo, usuários e desenvolvedores têm todas as informaç�
 
 ---
 
-**Desenvolvido com ❤️ por Manus AI**  
+**Desenvolvido com ❤️ por Vitor Matias**  
 **© 2025 - Todos os direitos reservados**
 
